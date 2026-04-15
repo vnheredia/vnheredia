@@ -20,7 +20,7 @@
 <!-- GIF -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="320"/>
 </p>
 
 ---
@@ -73,10 +73,10 @@
 ## 🌐 Conecta conmigo
 
 <p align="center">
-  <a href="TU_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Vane%20Heredia-6C63FF?style=for-the-badge&logo=linkedin"/>
+  <a href="www.linkedin.com/in/vanessa-heredia-428021212">
+    <img src="https://img.shields.io/badge/LinkedIn-Vanessa%20Heredia-6C63FF?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:TU_CORREO">
+  <a href="mailto:vanessaheredia444@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contacto-C8A2C8?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
