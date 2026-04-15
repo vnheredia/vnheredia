@@ -1,7 +1,7 @@
 <!-- BANNER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C8A2C8,100:6C63FF&height=200&section=header&text=Bienvenido/a&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F1A,100:6C63FF&height=200&section=header&text=Bienvenido/a&fontSize=40&fontColor=C8A2C8" />
 </p>
 
 <h1 align="center">✨ Hola, soy Vanessa Heredia ✨</h1>
@@ -12,7 +12,7 @@
 <!-- ANIMACIÓN -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=6C63FF&center=true&vCenter=true&width=500&lines=Java+%7C+React+%7C+APIs+REST;Desarrollo+Web+Frontend+%2B+Backend;Software+Accesible;Siempre+aprendiendo" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=C8A2C8&center=true&vCenter=true&width=500&lines=Java+%7C+React+%7C+APIs+REST;Desarrollo+Web+Frontend+%2B+Backend;Software+Accesible;Siempre+aprendiendo" />
 </p>
 
 ---
@@ -52,8 +52,8 @@
 ## 📊 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vnheredia&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vnheredia&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vnheredia&show_icons=true&theme=tokyonight&hide_border=true&title_color=C8A2C8&icon_color=6C63FF" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vnheredia&theme=tokyonight&hide_border=true&ring=C8A2C8&fire=6C63FF" />
 </p>
 
 ---
@@ -77,7 +77,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Vane%20Heredia-6C63FF?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:TU_CORREO">
-    <img src="https://img.shields.io/badge/Email-Contacto-7F5AF0?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-Contacto-C8A2C8?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
@@ -86,5 +86,5 @@
 <!-- FOOTER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:C8A2C8&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:0F0F1A&height=120&section=footer"/>
 </p>
